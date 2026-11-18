@@ -1,0 +1,18 @@
+
+package name:"SwiftSyntax" version:"600.0.1" tool:swiftpm
+
+library name:SwiftBasicFormat
+library name:SwiftCompilerPlugin
+library name:SwiftDiagnostics
+library name:SwiftIDEUtils
+library name:SwiftOperators
+library name:SwiftParser
+library name:SwiftParserDiagnostics
+library name:SwiftRefactor
+library name:SwiftSyntax
+library name:SwiftSyntaxBuilder
+library name:SwiftSyntaxMacros
+library name:SwiftSyntaxMacroExpansion
+library name:SwiftSyntaxMacrosGenericTestSupport
+library name:_SwiftCompilerPluginMessageHandling
+library name:_SwiftLibraryPluginProvider
