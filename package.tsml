@@ -1,5 +1,5 @@
 
-package name:"SwiftSyntax" version:"600.0.1" tool:swiftpm
+package name:"spellu.SwiftSyntax" version:"600.0.1" tool:swiftpm
 
 library name:SwiftBasicFormat
 library name:SwiftCompilerPlugin
