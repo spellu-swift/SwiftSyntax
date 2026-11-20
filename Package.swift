@@ -15,7 +15,7 @@ let package = Package(
 		.systemLibrary(
 			name: "SwiftSyntax",
 			path: "Binaries/SwiftSyntax",
-			pkgConfig: "SwiftSyntax",
+			pkgConfig: "spellu.SwiftSyntax",
 		),
 	],
 )
