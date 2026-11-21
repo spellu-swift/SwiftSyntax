@@ -10,7 +10,6 @@ let package = Package(
 			targets: ["SwiftSyntax"],
 		),
 	],
-
 	targets: [
 		.systemLibrary(
 			name: "SwiftSyntax",
